@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+It's amazing what we can remember with a little prompting.
